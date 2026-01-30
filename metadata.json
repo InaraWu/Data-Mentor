@@ -1,0 +1,5 @@
+{
+  "name": "Data Mentor",
+  "description": "Uma plataforma de ensino interativa de Pandas e SQL com feedback em tempo real.",
+  "requestFramePermissions": []
+}
